@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨, I'm Sahil Pandey</h1>
-<h3 align="center">Final year pursuing Bachelors in Technology at IIIT Lucknow</h3>
+<h3 align="center">Final year student pursuing Bachelors in Technology at IIIT Lucknow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heartzhacker&label=Profile%20views&color=0e75b6&style=flat" alt="heartzhacker" /> </p>
 
